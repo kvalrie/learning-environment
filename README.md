@@ -33,6 +33,8 @@ Sur Github, fork le projet "[learning-environment](https://github.com/becodeorg/
 ### critères de perfectionnement
 - listes à puce imbriquées (donc plusieurs niveaux hiérarchique)
 - listes numérotées imbriquées
-
+- publication de [ce bout de code](http://stackoverflow.com/a/1701672/53960)
+ de manière formattée.
+ 
 ### deadline
 lundi soir
