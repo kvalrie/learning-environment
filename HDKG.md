@@ -55,7 +55,7 @@ Pour que cela fonctionne il faut:
 
 ![com](https://youtechassociates.com/wp-content/uploads/2016/01/comm.jpg)
 
-###En Bref
+### En Bref
 
 >Come as you are, as you were
 Take your time, hurry up
@@ -71,6 +71,6 @@ Choice is yours, don't be late
 
                         DANIELA | GABRIELE | KHALED | HUGO
                 
-#####[Pour plus d'informations](http://dickbutt.org/)
+##### [Pour plus d'informations](http://dickbutt.org/)
 ![happy coding](http://1.bp.blogspot.com/-aQDfNZ3zCOM/U2ok-CcfCmI/AAAAAAAAAmY/SMdYir_cSF0/s1600/happy-coding.gif)
 
