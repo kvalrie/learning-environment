@@ -4,53 +4,53 @@
 
 
 
-# **Qu'est-ce qu'un environnement de travail optimisé?**
+# **Qu'est-ce qu'un environnement de travail optimisé ?**
 
 >    I never teach my pupils. I only attempt to provide the conditions in which they can learn. | 
 
  
                                                         – Albert Einstein
 
-Chez BeCode nous prenons ça tres au serieux , 4 criteres sont pour nous les clefs de la reussite .
+Chez BeCode nous prenons ça très au sérieux, **4 criteres** sont pour nous les clefs de la réussite.
 
 ## 1. Auto-Apprentissage
-Aujourd'hui , l'acces a l'information n'a plus de secret pour nous,se former,apprendre par soi meme devient vital pour :
+Aujourd'hui, l'accès à l'information n'a plus de secret pour nous, se former, apprendre par soi même devient même vital pour:
 
- * ###### Se construire 
- * ###### un gain d'estime de soi
- * ###### developper un esprit curieux
+ * ###### Se construire.
+ * ###### un gain d'estime de soi.
+ * ###### développer un esprit curieux.
 
 ![Auto](http://cdn2.hubspot.net/hub/145335/file-807816862-jpg/6_solutions_to_your_most_common_lead_generation_problems_.jpg)
 
 ## 2. Team Work
-Tout en développant les capacités individuels de chacun, le travaille en équipe permet d'attendre des objectifs de façon encore plus efficace, par:
+Tout en développant les capacités individuels de chacun, le travail en équipe permet d'atteindre des objectifs de façon encore plus efficace, par:
 
-* ###### le croisement d'idées
-* ###### le partage de problematique
-* ###### l'entraide
+* ###### le croisement d'idées.
+* ###### le partage de problématiques.
+* ###### l'entraide.
 
 ![team work](https://images-cdn.9gag.com/photo/ajr2j1g_700b.jpg)
 
-## 3. Un bien etre global
- Des conditions de travail saine sont essentielles.
+## 3. Un bien-être global
+ Des conditions de travail saines sont essentielles.
 
 > "Anima sana in corpore sano"
  
- * ###### un environnement Zen
- * ###### la tranquillité d'esprit
- * ###### une attitude positive
- * ###### une bonne hygienne de vie
+ * ###### un environnement Zen.
+ * ###### la tranquillité d'esprit.
+ * ###### une attitude positive.
+ * ###### une bonne hygienne de vie.
 
-Sont autant de facteurs important pour une reussite 
+Sont autant de facteurs pour un bien-être meilleur. 
 
 ![bien etre](http://blog.afest.com/wp-content/uploads/2014/03/Smiley1.jpg)
 
 ## 4. Communication
-la communication en groupe ... c'est la **[base](https://c1.staticflickr.com/8/7188/6904406305_43786c0d1c_b.jpg)** 
+la communication en groupe... C'est la **[base](https://c1.staticflickr.com/8/7188/6904406305_43786c0d1c_b.jpg)** 
 Pour que cela fonctionne il faut:
 
- * ###### De la transparence.  
- * ###### être a l'ecoute.
+ * ###### de la transparence.  
+ * ###### être à l'écoute.
  * ###### se mettre d'accord.
 
 ![com](https://youtechassociates.com/wp-content/uploads/2016/01/comm.jpg)
