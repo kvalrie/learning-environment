@@ -1,10 +1,9 @@
 # Environnement optimisé pour l'apprentissage
 
 Meta-Projet courant durant la prairie autour de la question "Qu'est-ce qu'un environnement de travail optimisé?"
-
 Sur base du livret de l’apprenant et des post-it, construisez un site de présentation de Becode comme environnement optimisé pour l’apprentissage, en html, css et js (jquery).
 
-## Objectifs:
+## Objectifs: 
 - acquérir une première expérience de pédagogie par projet
 - préparation de contenu pour le futur redesign du site de becode
 - auto-évaluer ses skills en html,css, javascript

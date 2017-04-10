@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+
+>>>>>>> e4253ebb6c2d6fb011ffa90ee91b2e57140cdee6
 [![becode logo](http://register.becode.org/images/logo_footer.png)](http://register.becode.org/)
 
 # **Environnement d'apprentissage optimisé**
