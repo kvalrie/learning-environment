@@ -1,5 +1,5 @@
 [![becode logo](https://media.licdn.com/media/AAEAAQAAAAAAAAkvAAAAJDAyNzk3ODlhLWU0MGYtNDFjMy05YzJiLTVjMjQ5ZjQ1YjlkMw.png)](http://register.becode.org/) 
->>>>>>> origin/mabranche
+
 
 
 
