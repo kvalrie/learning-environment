@@ -1,45 +1,76 @@
 
-[![becode logo](http://register.becode.org/images/logo_footer.png)](http://register.becode.org/)
+[![becode logo](https://media.licdn.com/media/AAEAAQAAAAAAAAkvAAAAJDAyNzk3ODlhLWU0MGYtNDFjMy05YzJiLTVjMjQ5ZjQ1YjlkMw.png)](http://register.becode.org/) 
 
-# **Environnement d'apprentissage optimisé**
 
-## 1. Connaissance par la pratique
-L’acquisition des contenus se fait par le développement de multiples projets, ce qui visent:
 
- * la mise en practique des connaissances 
- * la recherche de solutions
- * l'auto apprentissage
- * le développement d'un esprit curieux
 
-![team work](http://cdn2.hubspot.net/hub/145335/file-807816862-jpg/6_solutions_to_your_most_common_lead_generation_problems_.jpg)
+# **Qu'est-ce qu'un environnement de travail optimisé?**
+
+>    I never teach my pupils. I only attempt to provide the conditions in which they can learn. | 
+
+ 
+                                                        – Albert Einstein
+
+Chez BeCode nous prenons ça tres au serieux , 4 criteres sont pour nous les clefs de la reussite .
+
+## 1. Auto-Apprentissage
+Aujourd'hui , l'acces a l'information n'a plus de secret pour nous,se former,apprendre par soi meme devient vital pour :
+
+ * ###### Se construire 
+ * ###### un gain d'estime de soi
+ * ###### developper un esprit curieux
+
+![Auto](http://cdn2.hubspot.net/hub/145335/file-807816862-jpg/6_solutions_to_your_most_common_lead_generation_problems_.jpg)
 
 ## 2. Team Work
-Tout en développant les capacités individuels de chaqu'un, le travaille en équipe permet de attendre des objectifs de façon plus efficace, par:
+Tout en développant les capacités individuels de chacun, le travaille en équipe permet d'attendre des objectifs de façon encore plus efficace, par:
 
-* le croisement d'idées
-* le partage des tâches
-* l'esprit open source
+* ###### le croisement d'idées
+* ###### le partage de problematique
+* ###### l'entraide
 
-![team work](https://s-media-cache-ak0.pinimg.com/564x/c9/50/dc/c950dcba832266958939ddb0d4acb351.jpg)
+![team work](https://images-cdn.9gag.com/photo/ajr2j1g_700b.jpg)
 
-## 3. Environnement
-Les conditions d'apprentissage détermine le succès de ce processus laboureux et progressive. Dû importance d'entretenir une ambience de:
+## 3. Un bien etre global
+ Des conditions de travail saine sont essentielles.
 
- * tranquillité d'esprit
- * respect
- * entraide
- * positivisme
+> "Anima sana in corpore sano"
+ 
+ * ###### un environnement Zen
+ * ###### la tranquillité d'esprit
+ * ###### une attitude positive
+ * ###### une bonne hygienne de vie
 
-![team work](http://blog.afest.com/wp-content/uploads/2014/03/Smiley1.jpg)
+Sont autant de facteurs important pour une reussite 
 
-## 4. Intégration professionnelle
-La détermination et motivation dans l'apprentissage trouvent ses racines dans un objective, un rêve, une passion. Savoir trouver sa place sur le marche d'emploi implique:
+![bien etre](http://blog.afest.com/wp-content/uploads/2014/03/Smiley1.jpg)
 
- * connaitre la réalité actuel
- * être au courant des nouveautés
- * constituer un réseaux professionnel
+## 4. Communication
+la communication en groupe ... c'est la **[base](https://c1.staticflickr.com/8/7188/6904406305_43786c0d1c_b.jpg)** 
+Pour que cela fonctionne il faut:
 
-![team work](https://s-media-cache-ak0.pinimg.com/564x/cf/1d/67/cf1d6779e32777500ca31395f3a9db0d.jpg)
+ * ###### De la transparence.  
+ * ###### être a l'ecoute.
+ * ###### se mettre d'accord.
+
+![com](https://youtechassociates.com/wp-content/uploads/2016/01/comm.jpg)
+
+###En Bref
+
+>Come as you are, as you were
+Take your time, hurry up
+Choice is yours, don't be late
 
 
->>>>>>> 919c25c7fcb32575ee827b6d69a35fc146ce7e66
+
+```
+<script type="text/javascript">
+    alert(" in case no one told you today,you look fantastic");
+</script>
+```
+
+                        DANIELA | GABRIELE | KHALED | HUGO
+                
+#####[Pour plus d'informations](http://dickbutt.org/)
+![happy coding](http://1.bp.blogspot.com/-aQDfNZ3zCOM/U2ok-CcfCmI/AAAAAAAAAmY/SMdYir_cSF0/s1600/happy-coding.gif)
+
